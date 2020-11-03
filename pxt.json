@@ -1,0 +1,19 @@
+{
+    "name": "Digital_Sensor",
+    "version": "1.0.0",
+    "description": "Digital_Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "Digital_Sensor.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
