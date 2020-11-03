@@ -1,3 +1,4 @@
+//% weight=100 color="#F59E20" icon="\uf0c3"
 namespace Digital_Sensor{
 
     function Convert_string(reg:number):string {
