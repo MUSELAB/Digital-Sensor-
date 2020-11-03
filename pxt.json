@@ -1,18 +1,18 @@
 {
     "name": "pxt-museDigitalSensor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Digital_Sensor",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
         "README.md",
+        "nt.ts",
         "Digital_Sensor.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
-    "preferredEditor": "tsprj"
+    "public": true
 }
